@@ -1,3 +1,4 @@
 ﻿  a4.cpp
-c:\users\admin\source\repos\a4\a4\a4.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\a4\a4\a4.cpp(215): warning C4018: '<=': signed/unsigned mismatch
+c:\users\admin\source\repos\a4\a4\a4.cpp(275): warning C4018: '<': signed/unsigned mismatch
   a4.vcxproj -> C:\Users\Admin\Source\Repos\a4\Debug\a4.exe
